@@ -1,0 +1,6 @@
+{
+  "name": "Indore Ward Analytics Pro",
+  "description": "An AI-powered political analytics platform for Indore ward-level politics (Wards 1–85) featuring live charts, interactive heatmaps, candidate comparisons, gamification, and WardBot assistant.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
